@@ -48,6 +48,7 @@ AI-Voice-Assistant/
 
 **1. Clone the repository**
 git clone https://github.com/palchhin-sharma-official/NewMe-AI-Voice-Assistant
+
 **2. Navigate to the project folder**
 cd AI-Voice-Assistant
 
