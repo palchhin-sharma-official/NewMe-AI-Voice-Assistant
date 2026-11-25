@@ -60,6 +60,7 @@ pip install -r requirements.txt
 Execute the following command:
 
 python main.py
+
 Speak clearly into your microphone to give NewMe a command.
 
 
