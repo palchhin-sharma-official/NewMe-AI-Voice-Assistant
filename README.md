@@ -28,6 +28,7 @@ NewMe is a Python-based voice assistant that listens to voice commands and perfo
 ## Project Structure
 
 AI-Voice-Assistant/
+
 │
 ├── venv/
 
