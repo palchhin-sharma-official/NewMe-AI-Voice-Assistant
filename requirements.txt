@@ -1,0 +1,7 @@
+
+SpeechRecognition==3.17.0
+# SpeechRecognition — Recognizes your voice.
+pyttsx3==2.98
+# pyttsx3 — Converts text into speech.
+PyAudio==0.2.14
+# PyAudio — Handles microphone audio input.
