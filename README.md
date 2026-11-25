@@ -30,15 +30,10 @@ NewMe is a Python-based voice assistant that listens to voice commands and perfo
 AI-Voice-Assistant/
 │
 ├── venv/
-
 ├── main.py
-
 ├── commands.py
-
 ├── requirements.txt
-
 ├── README.md
-
 └── .gitignore
 
 
